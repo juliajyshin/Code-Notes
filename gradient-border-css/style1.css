@@ -1,0 +1,13 @@
+#gradient-border {
+    background-color: transparent;
+    border-width: 20px;
+    border-style: solid;
+    width: 80%;
+    height: 200px;
+    margin: 40px auto;
+    -moz-border-image: -moz-linear-gradient(to bottom right, #d8ab31 0%, #d8ab31 25%, #e0b75e 50%, #e968ad 75%, #e968ad 100%);
+    -webkit-border-image: -webkit-linear-gradient(to bottom right, #d8ab31 0%, #d8ab31 25%, #e0b75e 50%, #e968ad 75%, #e968ad 100%);
+    border-image: linear-gradient(to bottom right, #d8ab31 0%, #d8ab31 25%, #e0b75e 50%, #e968ad 75%, #e968ad 100%);
+    -webkit-border-image-slice: 1;
+    border-image-slice: 1;
+}
