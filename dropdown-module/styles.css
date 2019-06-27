@@ -1,0 +1,405 @@
+
+/* ---------- Financial Services Page */
+.financial-services {
+    line-height: 2em;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    padding: 0 50px;
+}
+
+.financial-service-imgs {
+	margin: 60px 0px;
+}
+
+.financial-services-bottom {
+	    margin-bottom: 120px;
+	    padding: 0 50px;
+	    line-height: 2em;
+
+}
+/* ---------- END Financial Services Page */
+
+/* ---------- Advisory Services Page */
+.advisory-services {
+    line-height: 2em;
+    margin-top: 40px;
+    margin-bottom: 120px;
+    padding: 0 50px;
+}
+
+.assist-area {
+	margin-top: 50px;
+}
+
+.advisory-list {
+	color: #8f8f8f;
+	font-size: 1.3em;
+}
+
+.checkmark {
+	width: 30px;
+	margin: 8px 0;
+	margin-right: 20px;
+}
+/* ---------- END Advisory Services Page */
+
+/* ---------- About Tony Smith Page */
+
+.tony-about {
+    text-align: justify;
+    line-height: 2em;
+    margin-top: 40px;
+    margin-bottom: 120px;
+    padding: 0 50px;
+}
+
+/* ---------- END About Tony Smith Page */
+
+/* ---------- Credentials & Missions Page */
+
+.missions-area {
+    margin-top: 50px;
+}
+
+.credentials-area {
+    margin-bottom: 90px;
+}
+
+/* ---------- END Credentials & Missions Page */
+
+/* ---------- Community Activiies Page */
+
+.jr-achievement {
+    line-height: 2em;
+}
+
+.community-area {
+    margin-top: 70px;
+    margin-bottom: 30px;
+    line-height: 2em;
+}
+
+.activities-img {
+    padding: 40px;
+}
+
+.activities-img-area {
+    margin-bottom: 20px;
+}
+
+/* ---------- END Community Activiies Page */
+
+/* ---------- Awards */
+
+.award-section {
+    margin-bottom: 50px;
+}
+
+.award-box {
+    border-color: #cfcfcf !important;
+    border: 1px solid;
+    height: 290px;
+    margin: 0 10px;
+    width: 31%;
+}
+
+.award-ribbon {
+    width: 15%;
+    margin: auto;
+}
+
+.award-name {
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+.awards-row {
+    margin: 20px 0;
+}
+
+/* ---------- End Awards */
+
+/* ---------- Blog */
+
+.vc_gitem_row .vc_gitem-col {
+    background-color: #ffffff;
+	text-align: center;
+}
+
+.vc_gitem-post-data h4 {
+    margin-bottom: 15px;
+    text-align: center !important;
+}
+
+.vc_btn3-container.vc_btn3-left {
+    text-align: center;
+}
+
+/* ---------- End Blog */
+/* ---------- Equity + Plus */
+
+.equity-plus {
+    text-align: justify;
+    line-height: 2em;
+    margin-top: 40px;
+    margin-bottom: 120px;
+    padding: 0 50px;
+}
+
+.collapsible {
+  background-color: #ccc;
+  color: #000d2d;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: 1px #999999 solid;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  border-radius: 0 !important;
+	margin-bottom: 5px;
+}
+
+
+
+
+.active, .collapsible:hover {
+	background-color: #c4362b !important;
+	border: none;
+	color: #fff;
+}
+
+button:hover, .button:hover, input[type="submit"]:hover, input[type="button"]:hover, input[type="reset"]:hover, .wh-button:hover, .elementor-button:hover, .course-meta .register a:hover, #tribe-events .tribe-events-button:hover, #tribe-bar-form .tribe-bar-submit input[type=submit]:hover, a.view-results:hover, a.view-results-link:hover, a.sensei-certificate-link:hover, .woocommerce #respond input#submit:hover, .sensei-course-filters li a:hover, li.msm-menu-item .msm-submenu a.wh-button:hover, .course-container a.button:hover, .course a.button:hover, .lesson a.button:hover, .quiz a.button:hover, .course-container a.button:visited:hover, .course a.button:visited:hover, .lesson a.button:visited:hover, .quiz a.button:visited:hover, .course-container a.comment-reply-link:hover, .course a.comment-reply-link:hover, .lesson a.comment-reply-link:hover, .quiz a.comment-reply-link:hover, .course-container #commentform #submit:hover, .course #commentform #submit:hover, .lesson #commentform #submit:hover, .quiz #commentform #submit:hover, .course-container .submit:hover, .course .submit:hover, .lesson .submit:hover, .quiz .submit:hover, .course-container input[type=submit]:hover, .course input[type=submit]:hover, .lesson input[type=submit]:hover, .quiz input[type=submit]:hover, .course-container input.button:hover, .course input.button:hover, .lesson input.button:hover, .quiz input.button:hover, .course-container button.button:hover, .course button.button:hover, .lesson button.button:hover, .quiz button.button:hover, .woocommerce a.button.add_to_cart_button:hover, button:focus, .button:focus, input[type="submit"]:focus, input[type="button"]:focus, input[type="reset"]:focus, .wh-button:focus, .elementor-button:focus, .course-meta .register a:focus, #tribe-events .tribe-events-button:focus, #tribe-bar-form .tribe-bar-submit input[type=submit]:focus, a.view-results:focus, a.view-results-link:focus, a.sensei-certificate-link:focus, .woocommerce #respond input#submit:focus, .sensei-course-filters li a:focus, li.msm-menu-item .msm-submenu a.wh-button:focus, .course-container a.button:focus, .course a.button:focus, .lesson a.button:focus, .quiz a.button:focus, .course-container a.button:visited:focus, .course a.button:visited:focus, .lesson a.button:visited:focus, .quiz a.button:visited:focus, .course-container a.comment-reply-link:focus, .course a.comment-reply-link:focus, .lesson a.comment-reply-link:focus, .quiz a.comment-reply-link:focus, .course-container #commentform #submit:focus, .course #commentform #submit:focus, .lesson #commentform #submit:focus, .quiz #commentform #submit:focus, .course-container .submit:focus, .course .submit:focus, .lesson .submit:focus, .quiz .submit:focus, .course-container input[type=submit]:focus, .course input[type=submit]:focus, .lesson input[type=submit]:focus, .quiz input[type=submit]:focus, .course-container input.button:focus, .course input.button:focus, .lesson input.button:focus, .quiz input.button:focus, .course-container button.button:focus, .course button.button:focus, .lesson button.button:focus, .quiz button.button:focus, .woocommerce a.button.add_to_cart_button:focus {
+	background-color: #ccc !important;
+	border: 1px #999999 solid !important;
+	color: #000d2d;
+}
+
+.collapsible:after {
+  content: '\02795'; /* Unicode character for "plus" sign (+) */
+  font-size: 13px;
+  color: #ffffff !important;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2796"; /* Unicode character for "minus" sign (-) */
+}
+
+.content {
+  padding: 0 18px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  background-color: #f1f1f1;
+}
+
+.content-margins {
+	margin: 30px 20px 30px;
+}
+
+.price-table {
+	border: 1px solid #000000;
+	margin: 10px;
+	padding: 10px;
+}
+.column-description {
+  float: left;
+  width: 80%;
+}
+.column-price {
+  float: left;
+  width: 20%;
+	text-align: right;
+
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+
+/* ---------- END Equity + Plus */
+/* ---------- Contact Us */
+
+.cbp-row.wh-breadcrumbs-bar {
+    display: none;
+}
+
+#wpcf7-f6-p23-o1 {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.contact-full-area {
+    margin: 10px 0 100px 0;
+}
+
+.contact-right {
+    padding: 40px 10px 90px 10px;
+}
+
+.contact-left {
+    border-right: solid 1px #cccccc;
+    width: 64%;
+    margin-right: 20px;
+    padding: 50px 40px 35px 50px;
+}
+
+div#wpcf7-f6-p23-o1 input, div#wpcf7-f6-p23-o1 textarea {
+    background-color: #f1f1f1;
+    border-radius: 0px;
+    color: #000000;
+}
+
+div#wpcf7-f6-p23-o1 button, .button, input[type="submit"] {
+    background-color: #dc4132 !important;
+    color: #ffffff !important;
+    border: none;
+    font-weight: bold;
+}
+
+.wpcf7-form-control.wpcf7-text.wpcf7-validates-as-required {
+    width: 95%;
+}
+
+/* ---------- END Contact Us */
+
+/* ---------- Inner Contact Us 3 */
+.contact-inner {
+	padding: 20px 0 40px;
+}
+
+div#wpcf7-f6-p23-o1 button, .button, input[type="submit"] {
+	margin-top: 15px;
+}
+
+/* ---------- END Inner Contact Us 3 */
+
+/* Extra small devices (phones, 600px and down) */
+
+@media (max-width: 600px) {
+    .vc_column-inner.vc_custom_1556585495944 {
+        margin-bottom: 0px;
+    }
+    .wpcf7 input[type="text"], .wpcf7 input[type="email"], .wpcf7 textarea {
+        background-color: #fff;
+        color: #8f8f8f;
+        border-radius: 5px;
+        width: 100%;
+    }
+    .column {
+        float: left;
+        width: 100%;
+    }
+    .vc_custom_1556658525767 {
+        padding: 35px;
+    }
+    .vc_column-inner {
+        margin-bottom: 10px;
+    }
+    .second-man {
+        display: none;
+    }
+    .clients-quote {
+        width: 100%!important;
+    }
+    .learn-more {
+        width: 100%!important;
+    }
+    .carousel-title {
+        font-size: 2.5em!important;
+    }
+    .subscribe-form {
+        text-align: center;
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+
+@media (max-width: 767px) {
+    .vc_custom_1556585495944 {
+        margin: 0px;
+    }
+    .wpcf7 input[type="text"], .wpcf7 input[type="email"], .wpcf7 textarea {
+        background-color: #fff;
+        color: #8f8f8f;
+        border-radius: 5px;
+        width: 60%;
+    }
+    .column {
+        float: left;
+        width: 100%;
+    }
+    .vc_column-inner {
+        margin-bottom: 0px
+    }
+    .vc_custom_1556658525767 {
+        padding-bottom: 30px;
+        padding-top: 10px;
+    }
+    .subscribe-form {
+        text-align: center;
+    }
+    .carousel-title {
+        font-size: 2.5em!important;
+    }
+    .img-responsive {
+        float: none;
+    }
+    .carousel-text {
+        padding: 0px 80px 10px 80px;
+    }
+    .second-man {
+        display: none;
+    }
+    .consult-area {
+        text-align: center;
+        padding-top: 10px;
+        padding-bottom: 30px;
+    }
+    .consult-text {
+        margin: 0 20px !important;
+    }
+    .learn-more-text {
+        margin: 0 110px !important;
+    }
+}
+
+@media (min-width: 768px) {
+    .consult-area {
+        padding-top: 20px;
+        padding-bottom: 30px;
+    }
+    .wpcf7 input[type="text"], .wpcf7 input[type="email"], .wpcf7 textarea {
+        background-color: #fff;
+        color: #8f8f8f;
+        border-radius: 5px;
+    }
+    .column {
+        float: left;
+        width: 100%;
+    }
+    .form-control {
+        width: 250px !important;
+        margin-top: 5px;
+    }
+    .carousel-title {
+        font-size: 2.5em!important;
+    }
+    .column {
+        float: left;
+        width: 50%;
+    }
+}
+
+@media (max-width:900px) {
+    .second-man {
+        display: none;
+    }
+}
